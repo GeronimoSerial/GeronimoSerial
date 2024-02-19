@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently specializing in .NET and Angular
+- 🌱 I’m currently learning 
 - 📫 How to reach me: [My Email](mailto:serialgeronimo@gmail.com)
 <!--
 **GeronimoSerial/GeronimoSerial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
