@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently specializing in .NET and Angular
+- 🔭 I’m currently specializing in C# .NET and Angular
 - 🌱 I’m currently learning 
 - 📫 How to reach me: [My Email](mailto:serialgeronimo@gmail.com)
 <!--
