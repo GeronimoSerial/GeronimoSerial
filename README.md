@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently specializing in Java, the Spring Framework, and anything else I can learn.
-- 🌱 I’m expanding my knowledge in various technologies.
 - 📫 How to reach me: [geroserial.com](https://geroserial.com)
 <!--
 **GeronimoSerial/GeronimoSerial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
